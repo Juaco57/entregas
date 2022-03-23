@@ -12,3 +12,6 @@ if (valorCompra>=4000) {
     
 }
 document.write("Valor Final: " + valorFinal)
+
+for(let i = 0; i<10; i++)
+console.log(i)
