@@ -15,3 +15,5 @@ document.write("Valor Final: " + valorFinal)
 
 for(let i = 0; i<10; i++)
 console.log(i)
+
+array=[nike,rebook,adidas,topper]
